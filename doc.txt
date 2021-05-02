@@ -1,0 +1,13 @@
+IDLE Software开发文档
+目录：
+一.基于Failsafe Anti Cheat开发
+
+
+
+一.基于Failsafe Anti Cheat开发
+第一节 简介
+Failsafe Anti Cheat是一个常规反作弊软件，使用Python+EPL开发
+内核为IDLE Failsafe
+第二节 如何使用
+在0.3.1之后，下载的文件中会包含一个SDK.e文件，使用EPL 5.9及以上版本打开
+这是一个自动调用器，不是必要的，可以将代码集成到游戏启动器中
